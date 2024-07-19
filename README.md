@@ -2,4 +2,3 @@ Hi everyone - I’m looking for a new role and would really appreciate your supp
 
 About me:
 💼 I’m looking for Java Developer roles.
-⭐ I’ve previously worked at Nagarro.
